@@ -4,5 +4,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-tensorflow==2.15
+tensorflow-cpu==2.15
 keras==2.15
